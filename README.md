@@ -1,0 +1,1 @@
+A collection of simple programs for sensors included with the Sainsmart sensor kit(s).  The code works with Arduino and Energia and might be compatible with other similar sensors.
